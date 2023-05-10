@@ -12,7 +12,7 @@
 
 5- What  region is most to purchase a bike ?
 
-#- The project went through the following stages :
+# - The project went through the following stages :
 
 1- Understanding the Meta Data
 
