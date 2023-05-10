@@ -29,12 +29,12 @@
 ![Dashboard](https://github.com/ZeyadMoawad/Bike_Sales_Analysis/assets/96973429/b161ac69-f336-4d1a-9a12-3a9f817da4f6)
 
 # - There are the key insights  
-1- Cutomers having the least commute distance have purchased the most bikes .
+1- Cutomers having the least commute distance have purchased the most bikes.
 
-2- Married males who purchased bikes  have the highest average income .
+2- Married males who purchased bikes  have the highest average income.
 
 3- Single males have one car  who higher proportion of bike purchased compared to others.
 
-4- Cutomers in the young age group purchased nearly four times more  bikes than the other two age groups combined .
+4- Cutomers in the young age group purchased nearly four times more  bikes than the other two age groups combined.
 
-5- North American region had a higher proportion of bike purchased compared to the Pacific and Europe .
+5- North American region had a higher proportion of bike purchased compared to the Pacific and Europe.
